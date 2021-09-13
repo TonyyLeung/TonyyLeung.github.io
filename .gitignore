@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+lib/__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+models/*
+*.pt
+
+*.csv
+.DS_Store
+.DS_Store?
